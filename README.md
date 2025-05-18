@@ -1,6 +1,5 @@
 # Social Media Management System 
 
-A comprehensive database project developed as part of the **Database Systems** course at **Superior University, Lahore**.  
 This project models the backend infrastructure of a social media platform, managing users, roles, friendships, posts, comments, notifications, and media — all designed using SQL and fully normalized for data integrity and efficiency.
 
 ---
